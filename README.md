@@ -2,6 +2,11 @@
 
 İSTEK Uluğbey Anadolu Lisesi'nde 9. sınıf öğrencisiyim. Teknoloji, robotik ve maker kültürüyle yakından ilgileniyorum.
 
+
+### Mail Adresi
+
+ [contact@poyrazkayacik.me]
+
 ### 🚀 Nelerle Uğraşıyorum?
 * **Robotik:** ORENDA bünyesinde FIRST Robotics Competition (FRC) yolculuğuna hazırlanıyorum.
 * **Donanım:** Arduino ve Raspberry Pi ile DIY projeler geliştiriyorum.
@@ -47,4 +52,4 @@
 * **Theater:** Dramafest 2026 High School Theater Competition - Lighting Technician & Assistant Director
 
 ###  Contact Me
- [poyraz.kayacik.ub.10@istek.k12.tr]
+ [contact@poyrazkayacik.me]
